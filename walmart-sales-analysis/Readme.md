@@ -62,7 +62,7 @@ This project analyzes Walmart's weekly sales performance between 2010 and 2012. 
 
 Author: Dzulfikri Alwi M (📧 dzulfikrialwim@gmail.com)
 
-Dataset Source: Walmart Weekly Sales (Kaggle)
+Dataset Source: Walmart Weekly Sales [(Kaggle)](https://www.kaggle.com/code/dzulfikrialwi/eda-walmart-sales/)
 
 Period Covered: 2010–2012
 
