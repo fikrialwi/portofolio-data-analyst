@@ -35,6 +35,40 @@ Below is a curated list of my projects, each with a link to its respective GitHu
     * Error Metrics (RMSE, MAE)
   * Project Link: [microsoft-stock-time-series-analysis](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/microsoft-stock-time-series-analysis)
 
+* **Young Football Player Analysis**
+  * Description: This project analyzes the performance of young football players (age ≤ 21) in Europe's top 5 leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1) during the 2024-25 season. The analysis focuses on playing time, offensive contributions, positional distribution, and efficiency metrics to understand how young talents are integrated and perform at the highest level.
+
+  * Technologies:
+    * Plotly Express
+    * Plotly Graph Objects
+    * Plotly Subplots
+    * Seaborn/Matplotlib
+    * K-Means Clustering (scikit-learn)
+
+  * Project Link: [young-football-player-analysis](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/Young-footbal-player-analysis)
+
+ * **Student Habit vs Academic Performance**
+  * Description: Proyek ini menganalisis hubungan antara berbagai faktor perilaku siswa dengan nilai ujian mereka. Fokus penelitian meliputi kebiasaan belajar, penggunaan media sosial, kesehatan mental, dan faktor lingkungan lainnya yang mungkin mempengaruhi prestasi akademik.
+
+  * Technologies:
+    * Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+    * Analisis Korelasi
+    * Visualisasi Data (Heatmap, Grafik Interaktif)
+    * Pra-pemrosesan Data (Handling Missing Values)
+
+  * Project Link: [student-habit-vs-academic-performance](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/student-habit-vs-academic-performance)
+
+ * **Shopping Trends and Customer Behaviour**
+  * Description: Sebagai seorang pemula dalam bidang analisis data, saya telah menyelesaikan proyek analisis dataset "Shopping Trends and Customer Behaviour" untuk memahami pola perilaku pelanggan dalam berbelanja. Di era digital ini, memahami tren belanja dan perilaku pelanggan menjadi kunci bagi bisnis untuk tetap kompetitif.
+
+  * Technologies:
+    - Pandas untuk manipulasi data
+    - NumPy untuk komputasi numerik
+    - Matplotlib & Seaborn untuk visualisasi
+    - Plotly untuk visualisasi interaktif
+
+  * Project Link: [shopping-trends-and-customer-behaviour-dataset](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/shopping-trends-and-customer-behaviour-dataset)
+
 # 📞**Contact**
 Feel free to connect with me for any inquiries, collaborations, or feedback.
 
