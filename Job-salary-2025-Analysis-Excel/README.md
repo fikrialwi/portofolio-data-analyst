@@ -131,4 +131,8 @@ Median Gaji ($ USD):    138.900,00
 
   * **Insight**: Ada kombinasi spesifik **peran yang sangat terspesialisasi** (seperti AI Architect, ML Infrastructure Engineer), **lokasi perusahaan tertentu** (CA, GB, IL), dan **rasio *remote*** (baik `0`/Office maupun `100`/Remote) yang secara konsisten menghasilkan **gaji rata-rata yang sangat tinggi**.
   * **Pentingnya Jumlah Data Poin**: Perhatikan `Number of Data Points`. Beberapa kombinasi gaji tertinggi hanya didasarkan pada 1 atau 2 data poin, yang berarti ini bisa jadi **kasus *outlier*** dan bukan tren yang luas. Kombinasi dengan lebih banyak data poin akan memberikan insight yang lebih kuat.
-  * Link: [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQq1zXuAQ94VNhsxOgBNM9M7UztHK2ameJ-UsR0m3o8re3HjqdPzRZxQuYa-Dw_IfzzPYx7-n2SPib9/pubhtml)
+  * Link:
+   * [link data publication](https://docs.google.com/spreadsheets/d/e/2PACX-1vQq1zXuAQ94VNhsxOgBNM9M7UztHK2ameJ-UsR0m3o8re3HjqdPzRZxQuYa-Dw_IfzzPYx7-n2SPib9/pubhtml)
+   * [Link google sheet](https://docs.google.com/spreadsheets/d/1SHdpkeOmu76o1wSw8qoqguJDuj68anSagxsyzfxXnV4/edit?usp=sharing)
+
+  * *Note*: data ini diproses menggunaan google sheet. Jadi apabila ada error dalam penggunaan formula bisa disebabkan karena ada perbedaan kapabilitas antara ms Excel dan google Sheet
