@@ -134,5 +134,6 @@ Median Gaji ($ USD):    138.900,00
   * Link:
    * [link data publication](https://docs.google.com/spreadsheets/d/e/2PACX-1vQq1zXuAQ94VNhsxOgBNM9M7UztHK2ameJ-UsR0m3o8re3HjqdPzRZxQuYa-Dw_IfzzPYx7-n2SPib9/pubhtml)
    * [Link google sheet](https://docs.google.com/spreadsheets/d/1SHdpkeOmu76o1wSw8qoqguJDuj68anSagxsyzfxXnV4/edit?usp=sharing)
-
+   * [Link (Google Looker Studio)](https://lookerstudio.google.com/reporting/878cc804-49f3-4c7b-844a-9955b30d44ea)
+       
   * *Note*: data ini diproses menggunaan google sheet. Jadi apabila ada error dalam penggunaan formula bisa disebabkan karena ada perbedaan kapabilitas antara ms Excel dan google Sheet
