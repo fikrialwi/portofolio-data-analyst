@@ -48,26 +48,34 @@ Below is a curated list of my projects, each with a link to its respective GitHu
   * Project Link: [young-football-player-analysis](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/Young-footbal-player-analysis)
 
  * **Student Habit vs Academic Performance**
-  * Description: Proyek ini menganalisis hubungan antara berbagai faktor perilaku siswa dengan nilai ujian mereka. Fokus penelitian meliputi kebiasaan belajar, penggunaan media sosial, kesehatan mental, dan faktor lingkungan lainnya yang mungkin mempengaruhi prestasi akademik.
+   * Description: Proyek ini menganalisis hubungan antara berbagai faktor perilaku siswa dengan nilai ujian mereka. Fokus penelitian meliputi kebiasaan belajar, penggunaan media sosial, kesehatan mental, dan faktor lingkungan lainnya yang mungkin mempengaruhi prestasi akademik.
 
-  * Technologies:
-    * Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
-    * Analisis Korelasi
-    * Visualisasi Data (Heatmap, Grafik Interaktif)
-    * Pra-pemrosesan Data (Handling Missing Values)
+   * Technologies:
+     * Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+     * Analisis Korelasi
+     * Visualisasi Data (Heatmap, Grafik Interaktif)
+     * Pra-pemrosesan Data (Handling Missing Values)
 
-  * Project Link: [student-habit-vs-academic-performance](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/student-habit-vs-academic-performance)
+   * Project Link: [student-habit-vs-academic-performance](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/student-habit-vs-academic-performance)
 
  * **Shopping Trends and Customer Behaviour**
-  * Description: Sebagai seorang pemula dalam bidang analisis data, saya telah menyelesaikan proyek analisis dataset "Shopping Trends and Customer Behaviour" untuk memahami pola perilaku pelanggan dalam berbelanja. Di era digital ini, memahami tren belanja dan perilaku pelanggan menjadi kunci bagi bisnis untuk tetap kompetitif.
+   * Description: Sebagai seorang pemula dalam bidang analisis data, saya telah menyelesaikan proyek analisis dataset "Shopping Trends and Customer Behaviour" untuk memahami pola perilaku pelanggan dalam berbelanja. Di era digital ini, memahami tren belanja dan perilaku pelanggan menjadi kunci bagi bisnis untuk tetap kompetitif.
 
-  * Technologies:
-    - Pandas untuk manipulasi data
-    - NumPy untuk komputasi numerik
-    - Matplotlib & Seaborn untuk visualisasi
-    - Plotly untuk visualisasi interaktif
+   * Technologies:
+     - Pandas untuk manipulasi data
+     - NumPy untuk komputasi numerik
+     - Matplotlib & Seaborn untuk visualisasi
+     - Plotly untuk visualisasi interaktif
 
-  * Project Link: [shopping-trends-and-customer-behaviour-dataset](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/shopping-trends-and-customer-behaviour-dataset)
+   * Project Link: [shopping-trends-and-customer-behaviour-dataset](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/shopping-trends-and-customer-behaviour-dataset)
+
+* **Data Science, AI & ML Job Salaries in 2025**
+   * Description: Dalam pasar kerja global yang dinamis, peran **data analis** sangat penting untuk pengambilan keputusan berbasis data. Dengan pesatnya adopsi teknologi dan fleksibilitas kerja, memahami **tren gaji** di berbagai peran, lokasi, dan pengaturan kerja menjadi krusial. Proyek ini menganalisis dataset komprehensif yang berisi informasi tentang posisi pekerjaan, gaji, lokasi karyawan dan perusahaan, serta rasio kerja jarak jauh. Tujuannya adalah mengungkap pola signifikan yang menawarkan wawasan berharga bagi **profesional data, perekrut, dan perusahaan** yang ingin menarik talenta terbaik di tengah lanskap yang terus berkembang ini.
+   
+   * Technologies:
+     - Google Sheets: Untuk pembersihan data awal, transformasi, dan analisis menggunakan fungsi `QUERY` yang canggih.
+     - Google Looker Studio: Untuk pembuatan dashboard interaktif dan visualisasi data.
+   * Project Link [Job-salary-2025-Analysis-Excel](https://github.com/fikrialwi/portofolio-data-analyst/tree/main/Job-salary-2025-Analysis-Excel)  
 
 # 📞**Contact**
 Feel free to connect with me for any inquiries, collaborations, or feedback.
